@@ -3,6 +3,7 @@
 # NEUROVOICE
 ## Azure-Based Progressive AI Screening System
 ### Eraser Board – End-to-End Architecture Document
+### 1st Runner Up - HackTU 7.0
 ---
 
 ## 1. PROBLEM CONTEXT
