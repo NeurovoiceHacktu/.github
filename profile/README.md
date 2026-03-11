@@ -4,7 +4,7 @@
 ## Azure-Based Progressive AI Screening System
 ### Eraser Board – End-to-End Architecture Document
 ### 1st Runner Up - HackTU 7.0
----
+--
 
 ## 1. PROBLEM CONTEXT
 Parkinson’s Disease (PD) is a progressive neurological disorder where **speech and facial expression changes appear early**, often before clinical diagnosis. Traditional diagnosis is expensive, specialist-driven, and inaccessible at scale.
